@@ -1,0 +1,20 @@
+/* you could do border: (width style color) */
+body{
+    margin: 0;
+}
+header{
+    background-color: lightgrey;
+    height: 80px;
+    width: auto;
+
+}
+.bluebox{
+    height: 70px;
+    width: 70px;
+    background: skyblue;
+    margin: 5px 0 0 15px;
+    float: left;
+    
+
+
+}
