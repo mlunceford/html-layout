@@ -1,0 +1,35 @@
+header {
+    height: 150px;
+
+    background-color: rgb(78, 74, 74);
+}
+
+.left-column {
+    background-color: rgb(161, 161, 167);
+    width: 15%;
+    height: 100%;
+    float: left;
+
+}
+.right-column {
+    background-color:   rgb(161, 161, 167);
+    width: 15%;
+    height: 100%;
+    float: right;
+
+}
+footer {
+    background-color: black;
+    height: 10%;
+    
+}
+.abs {
+    margin: ;
+    height: 90%;
+    width: 100%;
+    background-color: ;
+
+}
+body {
+    margin: 0;
+}

@@ -1,0 +1,60 @@
+header {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    height: 200px;
+}
+.box1 {
+    width: 40px;
+    height: 150px;
+    background: purple;
+    margin: 35px 0px 5px 10px;
+    float: left;
+
+}
+.box2 {
+    width: 40%;
+    height: 180px ;
+    margin: 10px 0 0 50px;
+    background-color: green;
+    float: left;
+}
+.box3 {
+    border-radius: 185px;
+    width: 185px;
+    height: 185px ;
+    margin: 10px 0 0 50px;
+    background-color: lightblue;
+    float: left;
+
+}
+.belly {
+    border-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    height: 250px;
+    margin-top: 20px;
+}
+.bellyfat {
+    width: 95%;
+    height: 75% ;
+    margin: 2% 0 0 2%;
+    background-color: rgb(236, 236, 185);
+    box-shadow: 5px 5px 5px 5px;
+
+}
+footer {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    height: 300px;
+    width: 40%;
+    margin: 15px 0 0 30%;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 75px;
+    font-weight: bold;
+    color: navy;    
+
+
+}
