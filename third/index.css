@@ -11,10 +11,37 @@ header{
 .bluebox{
     height: 70px;
     width: 70px;
-    background: skyblue;
+    background: rgb(55, 155, 194);
     margin: 5px 0 0 15px;
     float: left;
-    
-
-
+    }
+.whitebar {
+    height: 250px;
+    width: auto;
+    background-color: white;
+}  
+.textbar {
+    box-sizing: border-box;
+    padding: 50px;
 }
+.bluebar{
+    height: 200px;
+    width: auto;
+    background-color: skyblue;
+}
+.tealbar{
+    height: 200px;
+    width: auto;
+    background-color: aqua;
+}
+.mustardbar{
+    height: 200px;
+    width: auto;
+    background-color: rgb(170, 219, 155);
+}
+.yellowbar{
+    height: 200px;
+    width: auto;
+    background-color: rgb(197, 197, 90);
+}
+    
